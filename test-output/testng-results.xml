@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-10T01:09:25 EET" name="Default suite" finished-at="2024-02-10T01:26:49 EET" duration-ms="1043809">
+  <suite started-at="2024-03-19T13:37:51 EET" name="Default suite" finished-at="2024-03-19T14:43:03 EET" duration-ms="3911956">
     <groups>
     </groups>
-    <test started-at="2024-02-10T01:09:25 EET" name="Default test" finished-at="2024-02-10T01:26:49 EET" duration-ms="1043809">
+    <test started-at="2024-03-19T13:37:51 EET" name="Default test" finished-at="2024-03-19T14:43:03 EET" duration-ms="3911956">
       <class name="google_translate_many_texts_files.TranslateTextFiles">
-        <test-method signature="main()[pri:0, instance:google_translate_many_texts_files.TranslateTextFiles@595b007d]" started-at="2024-02-10T01:09:25 EET" name="main" finished-at="2024-02-10T01:26:49 EET" duration-ms="1043740" status="PASS">
+        <test-method signature="main()[pri:0, instance:google_translate_many_texts_files.TranslateTextFiles@595b007d]" started-at="2024-03-19T13:37:51 EET" name="main" finished-at="2024-03-19T14:43:02 EET" duration-ms="3911615" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- main -->
